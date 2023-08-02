@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280305651366",
+    "project_id": "self-learning-3f425",
+    "storage_bucket": "self-learning-3f425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280305651366:android:109fbc878955e15e9b6e67",
+        "android_client_info": {
+          "package_name": "com.example.selflearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280305651366-7bqnqgrail8f15taiurnde8b1kv074j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbCP8OiKE9DQi813VPQA3L8RWW1YSgUwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280305651366-7bqnqgrail8f15taiurnde8b1kv074j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
